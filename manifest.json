@@ -1112,6 +1112,112 @@
         "blob/b1f0c1b9fc04f0bbc99c35295e941b1b90e14554.nq.gz",
         "blob/7eb74fd127ee5eddf3b95fee6a20dc1684b0963b.nq.gz",
         "blob/dae4585e56fc3258ae312f50778c44e247e520ad.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/4dc19dc62abf432736f563c900668dc155ee7a8c.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4dc19dc62abf432736f563c900668dc155ee7a8c.nq.gz",
+      "repolex": "aggregate/repolex/4dc19dc62abf432736f563c900668dc155ee7a8c.nq.gz",
+      "dep": "dep/4dc19dc62abf432736f563c900668dc155ee7a8c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "compass",
+          "packageVersion": "1.1.0.alpha.3",
+          "githubOrg": "chriseppstein",
+          "githubRepo": "compass",
+          "githubCommit": "cb4e2a46d8d158f0d6f26b5c96f6e47d399d39d0"
+        },
+        {
+          "packageName": "browserify",
+          "packageVersion": "9.0.8",
+          "githubOrg": "substack",
+          "githubRepo": "node-browserify",
+          "githubCommit": "8ef5af9b45270ff3a438ebd1429f57315570d064"
+        },
+        {
+          "packageName": "connect-livereload",
+          "packageVersion": "0.6.1",
+          "githubOrg": "intesso",
+          "githubRepo": "connect-livereload",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "grunt",
+          "packageVersion": "1.6.1",
+          "githubOrg": "gruntjs",
+          "githubRepo": "grunt",
+          "githubCommit": "8372e118eb8c4c6d40e9c6c5684948a786dee8a9"
+        },
+        {
+          "packageName": "grunt-browserify",
+          "packageVersion": "6.0.0",
+          "githubOrg": "jmreidy",
+          "githubRepo": "grunt-browserify",
+          "githubCommit": "fd0f242873afc3d8bd4ed80df8bd462f52b72dea"
+        },
+        {
+          "packageName": "grunt-contrib-clean",
+          "packageVersion": "2.0.1",
+          "githubOrg": "gruntjs",
+          "githubRepo": "grunt-contrib-clean",
+          "githubCommit": "9bd20a6effd37c37d892d227812e16c83c679651"
+        },
+        {
+          "packageName": "grunt-contrib-connect",
+          "packageVersion": "5.0.1",
+          "githubOrg": "gruntjs",
+          "githubRepo": "grunt-contrib-connect",
+          "githubCommit": "9d9b2951cfc62945eb9b25e18e3e23bc870a6af6"
+        },
+        {
+          "packageName": "grunt-contrib-copy",
+          "packageVersion": "1.0.0",
+          "githubOrg": "gruntjs",
+          "githubRepo": "grunt-contrib-copy",
+          "githubCommit": "85150c7bfef1279911cb844eefdcd7b2c31ad9d1"
+        },
+        {
+          "packageName": "grunt-contrib-sass",
+          "packageVersion": "2.0.0",
+          "githubOrg": "gruntjs",
+          "githubRepo": "grunt-contrib-sass",
+          "githubCommit": "000f6d5d8e7c1173a114dfe1d524a76fe9ae13e9"
+        },
+        {
+          "packageName": "grunt-contrib-watch",
+          "packageVersion": "1.1.0",
+          "githubOrg": "gruntjs",
+          "githubRepo": "grunt-contrib-watch",
+          "githubCommit": "3b7ddf4453787979a22b83949b86106534c78d26"
+        },
+        {
+          "packageName": "grunt-exec",
+          "packageVersion": "3.0.0",
+          "githubOrg": "jharding",
+          "githubRepo": "grunt-exec",
+          "githubCommit": "25fa05b466f6e016a8998a0cf42df6dc3019f85c"
+        },
+        {
+          "packageName": "grunt-open",
+          "packageVersion": "0.2.4",
+          "githubOrg": "onehealth",
+          "githubRepo": "grunt-open",
+          "githubCommit": "08570ad796165dcdf4f92485b7b6bf37a2b0a8df"
+        },
+        {
+          "packageName": "matchdep",
+          "packageVersion": "2.0.0",
+          "githubOrg": "tkellen",
+          "githubRepo": "js-matchdep",
+          "githubCommit": "5d2e1bc61127ec6d0c95019a234daca40d2cb830"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+        }
       ]
     }
   ],
