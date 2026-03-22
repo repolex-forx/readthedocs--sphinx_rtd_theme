@@ -3,6 +3,11 @@
   "repo": "sphinx_rtd_theme",
   "versions": [
     {
+      "commit": "4dc19dc62abf432736f563c900668dc155ee7a8c",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "5b33b5674749d8b85999be2a9aa16a990e648dd3",
       "tag": "",
       "parsed_at": ""
