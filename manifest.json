@@ -2300,6 +2300,13 @@
           "githubCommit": "5d2e1bc61127ec6d0c95019a234daca40d2cb830"
         },
         {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+        },
+        {
           "packageName": "sphinx",
           "packageVersion": "9.1.0rc2",
           "githubOrg": "sphinx-doc",
@@ -2312,13 +2319,6 @@
           "githubOrg": "pytest-dev",
           "githubRepo": "pytest",
           "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
-        },
-        {
-          "packageName": "sphinx-rtd-theme",
-          "packageVersion": "3.1.0rc2",
-          "githubOrg": "readthedocs",
-          "githubRepo": "sphinx_rtd_theme",
-          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
         }
       ]
     },
