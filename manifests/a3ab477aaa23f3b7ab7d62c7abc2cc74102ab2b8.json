@@ -1,0 +1,141 @@
+{
+  "commit": "a3ab477aaa23f3b7ab7d62c7abc2cc74102ab2b8",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/a3ab477aaa23f3b7ab7d62c7abc2cc74102ab2b8.nq.gz",
+      "size_bytes": 445833
+    },
+    "dep": {
+      "path": "dep/a3ab477aaa23f3b7ab7d62c7abc2cc74102ab2b8.nq.gz",
+      "size_bytes": 2026
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "bower",
+      "packageVersion": "1.8.9",
+      "githubOrg": "bower",
+      "githubRepo": "bower",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "browserify",
+      "packageVersion": "9.0.8",
+      "githubOrg": "substack",
+      "githubRepo": "node-browserify",
+      "githubCommit": "8ef5af9b45270ff3a438ebd1429f57315570d064"
+    },
+    {
+      "packageName": "connect-livereload",
+      "packageVersion": "0.6.1",
+      "githubOrg": "intesso",
+      "githubRepo": "connect-livereload",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "grunt",
+      "packageVersion": "1.6.1",
+      "githubOrg": "gruntjs",
+      "githubRepo": "grunt",
+      "githubCommit": "8372e118eb8c4c6d40e9c6c5684948a786dee8a9"
+    },
+    {
+      "packageName": "grunt-banner",
+      "packageVersion": "0.6.0",
+      "githubOrg": "mattstyles",
+      "githubRepo": "grunt-banner",
+      "githubCommit": "234198662e6557ab1f6a62101b9e7df4ed2b5e17"
+    },
+    {
+      "packageName": "grunt-browserify",
+      "packageVersion": "6.0.0",
+      "githubOrg": "jmreidy",
+      "githubRepo": "grunt-browserify",
+      "githubCommit": "fd0f242873afc3d8bd4ed80df8bd462f52b72dea"
+    },
+    {
+      "packageName": "grunt-contrib-clean",
+      "packageVersion": "2.0.1",
+      "githubOrg": "gruntjs",
+      "githubRepo": "grunt-contrib-clean",
+      "githubCommit": "9bd20a6effd37c37d892d227812e16c83c679651"
+    },
+    {
+      "packageName": "grunt-contrib-connect",
+      "packageVersion": "5.0.1",
+      "githubOrg": "gruntjs",
+      "githubRepo": "grunt-contrib-connect",
+      "githubCommit": "9d9b2951cfc62945eb9b25e18e3e23bc870a6af6"
+    },
+    {
+      "packageName": "grunt-contrib-copy",
+      "packageVersion": "1.0.0",
+      "githubOrg": "gruntjs",
+      "githubRepo": "grunt-contrib-copy",
+      "githubCommit": "85150c7bfef1279911cb844eefdcd7b2c31ad9d1"
+    },
+    {
+      "packageName": "grunt-contrib-sass",
+      "packageVersion": "2.0.0",
+      "githubOrg": "gruntjs",
+      "githubRepo": "grunt-contrib-sass",
+      "githubCommit": "000f6d5d8e7c1173a114dfe1d524a76fe9ae13e9"
+    },
+    {
+      "packageName": "grunt-contrib-uglify",
+      "packageVersion": "5.2.2",
+      "githubOrg": "gruntjs",
+      "githubRepo": "grunt-contrib-uglify",
+      "githubCommit": "4a73c8aad6d937438d0ef7150576ed5281a68564"
+    },
+    {
+      "packageName": "grunt-contrib-watch",
+      "packageVersion": "1.1.0",
+      "githubOrg": "gruntjs",
+      "githubRepo": "grunt-contrib-watch",
+      "githubCommit": "3b7ddf4453787979a22b83949b86106534c78d26"
+    },
+    {
+      "packageName": "grunt-exec",
+      "packageVersion": "3.0.0",
+      "githubOrg": "jharding",
+      "githubRepo": "grunt-exec",
+      "githubCommit": "25fa05b466f6e016a8998a0cf42df6dc3019f85c"
+    },
+    {
+      "packageName": "grunt-open",
+      "packageVersion": "0.2.4",
+      "githubOrg": "onehealth",
+      "githubRepo": "grunt-open",
+      "githubCommit": "08570ad796165dcdf4f92485b7b6bf37a2b0a8df"
+    },
+    {
+      "packageName": "matchdep",
+      "packageVersion": "2.0.0",
+      "githubOrg": "tkellen",
+      "githubRepo": "js-matchdep",
+      "githubCommit": "5d2e1bc61127ec6d0c95019a234daca40d2cb830"
+    },
+    {
+      "packageName": "sphinx-rtd-theme",
+      "packageVersion": "3.1.0rc2",
+      "githubOrg": "readthedocs",
+      "githubRepo": "sphinx_rtd_theme",
+      "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+    },
+    {
+      "packageName": "sphinx",
+      "packageVersion": "9.1.0rc2",
+      "githubOrg": "sphinx-doc",
+      "githubRepo": "sphinx",
+      "githubCommit": "8ab960098a8e12b8893bd3ceafc394759118346b"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    }
+  ]
+}
