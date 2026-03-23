@@ -5061,6 +5061,196 @@
         "blob/7eb74fd127ee5eddf3b95fee6a20dc1684b0963b.nq.gz",
         "blob/b150cb44d952321868c3e18c7eae07e7ef273a9a.nq.gz",
         "blob/dae4585e56fc3258ae312f50778c44e247e520ad.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/73fe2fba498bee59e98dd9230bb740c9a4ed9ea9.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/73fe2fba498bee59e98dd9230bb740c9a4ed9ea9.nq.gz",
+      "repolex": "aggregate/repolex/73fe2fba498bee59e98dd9230bb740c9a4ed9ea9.nq.gz",
+      "dep": "dep/73fe2fba498bee59e98dd9230bb740c9a4ed9ea9.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "bourbon",
+          "packageVersion": "7.3.0",
+          "githubOrg": "thoughtbot",
+          "githubRepo": "bourbon",
+          "githubCommit": "c3551e46f41738681216a7f957bc88bc79155b16"
+        },
+        {
+          "packageName": "bourbon-neat",
+          "packageVersion": "4.0.0",
+          "githubOrg": "thoughtbot",
+          "githubRepo": "neat",
+          "githubCommit": "488ac4395c9a92df98c5b108f6251059a333a490"
+        },
+        {
+          "packageName": "copy-webpack-plugin",
+          "packageVersion": "9.1.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "copy-webpack-plugin",
+          "githubCommit": "fbea73d5f6c0242c537dbb048c065ccdb9be54bf"
+        },
+        {
+          "packageName": "css-loader",
+          "packageVersion": "7.1.4",
+          "githubOrg": "webpack",
+          "githubRepo": "css-loader",
+          "githubCommit": "5b795afc2fb928e548a06040b1964304f101a2fc"
+        },
+        {
+          "packageName": "file-loader",
+          "packageVersion": "6.2.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "file-loader",
+          "githubCommit": "c423008dce1b16e1253b89b792f03774ffeb47de"
+        },
+        {
+          "packageName": "font-awesome",
+          "packageVersion": "4.7.0",
+          "githubOrg": "FortAwesome",
+          "githubRepo": "Font-Awesome",
+          "githubCommit": "a8386aae19e200ddb0f6845b5feeee5eb7013687"
+        },
+        {
+          "packageName": "html5shiv",
+          "packageVersion": "3.7.3",
+          "githubOrg": "aFarkas",
+          "githubRepo": "html5shiv",
+          "githubCommit": "ed28c56c071bddfe7d635ad88995674957a016be"
+        },
+        {
+          "packageName": "imports-loader",
+          "packageVersion": "5.0.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "imports-loader",
+          "githubCommit": "c32612b1243a45800e59eb6a94ae4268dfdb7105"
+        },
+        {
+          "packageName": "jquery",
+          "packageVersion": "4.0.0-rc.2",
+          "githubOrg": "jquery",
+          "githubRepo": "jquery",
+          "githubCommit": "97525193735ed32c332f0dbaf2f782df8b1b949b"
+        },
+        {
+          "packageName": "lato-font",
+          "packageVersion": "3.0.0",
+          "githubOrg": "betsol",
+          "githubRepo": "lato-font",
+          "githubCommit": "b25aa8693f5ce250f45f665d0b77116722fceddb"
+        },
+        {
+          "packageName": "mini-css-extract-plugin",
+          "packageVersion": "2.9.4",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "mini-css-extract-plugin",
+          "githubCommit": "29df4650022d98b3b6c4e2827fa10c6fe63d5499"
+        },
+        {
+          "packageName": "node-sass",
+          "packageVersion": "9.0.0",
+          "githubOrg": "sass",
+          "githubRepo": "node-sass",
+          "githubCommit": "87f38998da059d13a87a7fc9f3d29d5728128e2c"
+        },
+        {
+          "packageName": "optimize-css-assets-webpack-plugin",
+          "packageVersion": "6.0.1",
+          "githubOrg": "NMFR",
+          "githubRepo": "optimize-css-assets-webpack-plugin",
+          "githubCommit": "e896b9786d272323db70ced09ea4f2d8cbfc22ef"
+        },
+        {
+          "packageName": "roboto-fontface",
+          "packageVersion": "0.9.0",
+          "githubOrg": "choffmeister",
+          "githubRepo": "roboto-fontface-bower",
+          "githubCommit": "f6ab1a2bb3c4b9e7ef04445c0b3b5b12ce34e5cc"
+        },
+        {
+          "packageName": "sass-loader",
+          "packageVersion": "9.0.3",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "sass-loader",
+          "githubCommit": "d873b1574f5ac75d76a02f3e4bd20d7b470e27d7"
+        },
+        {
+          "packageName": "style-loader",
+          "packageVersion": "4.0.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "style-loader",
+          "githubCommit": "091d37d68abfb071c4fbdd335385cd6f1af114c6"
+        },
+        {
+          "packageName": "webpack",
+          "packageVersion": "5.99.9",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack",
+          "githubCommit": "6c9f912af2dfbb3e0e1a2a3ecdc3881c96363432"
+        },
+        {
+          "packageName": "webpack-cli",
+          "packageVersion": "7.0.2",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack-cli",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "webpack-dev-server",
+          "packageVersion": "5.2.3",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack-dev-server",
+          "githubCommit": "b550a702bd4246d1724513b70de0bfbe6604672f"
+        },
+        {
+          "packageName": "webpack-merge",
+          "packageVersion": "6.0.1",
+          "githubOrg": "survivejs",
+          "githubRepo": "webpack-merge",
+          "githubCommit": "2f610b9c2da066cc5d035ee83db84e22b7d42fb3"
+        },
+        {
+          "packageName": "webpack-shell-plugin",
+          "packageVersion": "0.5.0",
+          "githubOrg": "1337programming",
+          "githubRepo": "webpack-shell-plugin",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "webpack-watch-files-plugin",
+          "packageVersion": "1.2.1",
+          "githubOrg": "Fridus",
+          "githubRepo": "webpack-watch-files-plugin",
+          "githubCommit": "c8ea2e848feba052693d62e59f938f9aed661c25"
+        },
+        {
+          "packageName": "wyrm",
+          "packageVersion": "1.0.9",
+          "githubOrg": "snide",
+          "githubRepo": "wyrm",
+          "githubCommit": "fd41b56978f009e8c33cb26f384dd0dfaf430a7d"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "sphinx",
+          "packageVersion": "9.1.0rc2",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubCommit": "8ab960098a8e12b8893bd3ceafc394759118346b"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],
