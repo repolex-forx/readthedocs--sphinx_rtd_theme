@@ -4262,115 +4262,144 @@
       "dependencies": [
         {
           "packageName": "compass",
-          "packageVersion": "1.1.0.alpha.3",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.0.3",
           "githubOrg": "chriseppstein",
           "githubRepo": "compass",
-          "githubCommit": "cb4e2a46d8d158f0d6f26b5c96f6e47d399d39d0"
+          "githubCommit": "c2057c4f121ac32522972967d1b2ee535d67bd6c",
+          "githubTag": "1.0.3",
+          "githubUrl": "http://github.com/chriseppstein/compass",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "browserify",
-          "packageVersion": "9.0.8",
-          "githubOrg": "substack",
-          "githubRepo": "node-browserify",
-          "githubCommit": "8ef5af9b45270ff3a438ebd1429f57315570d064"
+          "ecosystem": "NPM",
+          "version": "11.0.0",
+          "githubOrg": "browserify",
+          "githubRepo": "browserify",
+          "githubCommit": "59cee8675f3e34fae792e83e25db16428e6f7a4f",
+          "githubTag": "11.0.0",
+          "githubUrl": "git+ssh://git@github.com/browserify/browserify.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "connect-livereload",
-          "packageVersion": "0.6.1",
+          "ecosystem": "NPM",
+          "version": "0.3.0",
           "githubOrg": "intesso",
           "githubRepo": "connect-livereload",
-          "githubCommit": "HEAD"
+          "githubCommit": "5ca4986fa524a6c3e2147eb6a005ac3a79cf0aab",
+          "githubTag": "v0.3.0",
+          "githubUrl": "git://github.com/intesso/connect-livereload.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt",
-          "packageVersion": "1.6.1",
+          "ecosystem": "NPM",
+          "version": "0.4.1",
           "githubOrg": "gruntjs",
           "githubRepo": "grunt",
-          "githubCommit": "8372e118eb8c4c6d40e9c6c5684948a786dee8a9"
+          "githubCommit": "c5cb63483aa5d0f933b914a1872b8c2366203a2e",
+          "githubTag": "v0.4.1",
+          "githubUrl": "git+https://github.com/gruntjs/grunt.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-browserify",
-          "packageVersion": "6.0.0",
+          "ecosystem": "NPM",
+          "version": "3.8.0",
           "githubOrg": "jmreidy",
           "githubRepo": "grunt-browserify",
-          "githubCommit": "fd0f242873afc3d8bd4ed80df8bd462f52b72dea"
+          "githubCommit": "8f1f07cfface48d1e3ba820e5606c07d74eee0d8",
+          "githubTag": "v3.8.0",
+          "githubUrl": "git://github.com/jmreidy/grunt-browserify.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-contrib-clean",
-          "packageVersion": "2.0.1",
+          "ecosystem": "NPM",
+          "version": "0.5.0",
           "githubOrg": "gruntjs",
           "githubRepo": "grunt-contrib-clean",
-          "githubCommit": "9bd20a6effd37c37d892d227812e16c83c679651"
+          "githubCommit": "3cce2f7a74164efe1e9f650e6f634c29979f07cd",
+          "githubTag": "v0.5.0",
+          "githubUrl": "git+https://github.com/gruntjs/grunt-contrib-clean.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-contrib-connect",
-          "packageVersion": "5.0.1",
+          "ecosystem": "NPM",
+          "version": "0.5.0",
           "githubOrg": "gruntjs",
           "githubRepo": "grunt-contrib-connect",
-          "githubCommit": "9d9b2951cfc62945eb9b25e18e3e23bc870a6af6"
+          "githubUrl": "git+https://github.com/gruntjs/grunt-contrib-connect.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-contrib-copy",
-          "packageVersion": "1.0.0",
+          "ecosystem": "NPM",
+          "version": "0.5.0",
           "githubOrg": "gruntjs",
           "githubRepo": "grunt-contrib-copy",
-          "githubCommit": "85150c7bfef1279911cb844eefdcd7b2c31ad9d1"
+          "githubCommit": "a29fe846dc7ed0ccb4c217727c0feeb686cef66c",
+          "githubTag": "v0.5.0",
+          "githubUrl": "git+https://github.com/gruntjs/grunt-contrib-copy.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-contrib-sass",
-          "packageVersion": "2.0.0",
+          "ecosystem": "NPM",
+          "version": "0.7.2",
           "githubOrg": "gruntjs",
           "githubRepo": "grunt-contrib-sass",
-          "githubCommit": "000f6d5d8e7c1173a114dfe1d524a76fe9ae13e9"
+          "githubCommit": "a4d1e568614284527efce82895b44b855fe27c4d",
+          "githubTag": "v0.7.2",
+          "githubUrl": "git+https://github.com/gruntjs/grunt-contrib-sass.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-contrib-watch",
-          "packageVersion": "1.1.0",
+          "ecosystem": "NPM",
+          "version": "0.4.3",
           "githubOrg": "gruntjs",
           "githubRepo": "grunt-contrib-watch",
-          "githubCommit": "3b7ddf4453787979a22b83949b86106534c78d26"
+          "githubCommit": "c33545f2971a9e09825465a160694db60d8f4eb2",
+          "githubTag": "v0.4.3",
+          "githubUrl": "git+https://github.com/gruntjs/grunt-contrib-watch.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-exec",
-          "packageVersion": "3.0.0",
+          "ecosystem": "NPM",
+          "version": "0.4.2",
           "githubOrg": "jharding",
           "githubRepo": "grunt-exec",
-          "githubCommit": "25fa05b466f6e016a8998a0cf42df6dc3019f85c"
+          "githubCommit": "0ca31e984570b51e6a6d0b568503f4183badccd8",
+          "githubTag": "v0.4.2",
+          "githubUrl": "git://github.com/jharding/grunt-exec.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "grunt-open",
-          "packageVersion": "0.2.4",
+          "ecosystem": "NPM",
+          "version": "0.2.2",
           "githubOrg": "onehealth",
           "githubRepo": "grunt-open",
-          "githubCommit": "08570ad796165dcdf4f92485b7b6bf37a2b0a8df"
+          "githubCommit": "5b60db320ad52045622ed656f1ffe5796de2b527",
+          "githubTag": "v0.2.2",
+          "githubUrl": "git://github.com/onehealth/grunt-open.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "matchdep",
-          "packageVersion": "2.0.0",
+          "ecosystem": "NPM",
+          "version": "0.1.2",
           "githubOrg": "tkellen",
           "githubRepo": "js-matchdep",
-          "githubCommit": "5d2e1bc61127ec6d0c95019a234daca40d2cb830"
-        },
-        {
-          "packageName": "sphinx",
-          "packageVersion": "9.1.0rc2",
-          "githubOrg": "sphinx-doc",
-          "githubRepo": "sphinx",
-          "githubCommit": "8ab960098a8e12b8893bd3ceafc394759118346b"
-        },
-        {
-          "packageName": "pytest",
-          "packageVersion": "9.0.2",
-          "githubOrg": "pytest-dev",
-          "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
-        },
-        {
-          "packageName": "sphinx-rtd-theme",
-          "packageVersion": "3.1.0rc2",
-          "githubOrg": "readthedocs",
-          "githubRepo": "sphinx_rtd_theme",
-          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+          "githubCommit": "158bedb625a14a91f52241c86944123de8a66a5a",
+          "githubTag": "0.1.2",
+          "githubUrl": "git://github.com/tkellen/js-matchdep.git",
+          "source": "build_file:package.json"
         }
       ]
     },
