@@ -33968,6 +33968,249 @@
         "blob/f402040b3e5360b90f3a12ca2afab2cd7244e16f.nq.gz",
         "blob/29d53c10ed6468d13bfa9eb5f62ee4f4c9353a2a.nq.gz",
         "blob/3cf7efa2049c617a5623d5993e758e70b2fa3d37.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/3a3473dc15468f1323c5ce6a903e52a0c63a5feb.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3a3473dc15468f1323c5ce6a903e52a0c63a5feb.nq.gz",
+      "repolex": "aggregate/repolex/3a3473dc15468f1323c5ce6a903e52a0c63a5feb.nq.gz",
+      "dep": "dep/3a3473dc15468f1323c5ce6a903e52a0c63a5feb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "bourbon",
+          "ecosystem": "NPM",
+          "version": "4.3",
+          "githubOrg": "thoughtbot",
+          "githubRepo": "bourbon",
+          "githubUrl": "git+https://github.com/thoughtbot/bourbon.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "bourbon-neat",
+          "ecosystem": "NPM",
+          "version": "1.9",
+          "githubOrg": "thoughtbot",
+          "githubRepo": "neat",
+          "githubUrl": "git+https://github.com/thoughtbot/neat.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "css-loader",
+          "ecosystem": "NPM",
+          "version": "3.6.0",
+          "githubOrg": "webpack",
+          "githubRepo": "css-loader",
+          "githubCommit": "22e16e2fc88f920571219570953d3da5702d4fdb",
+          "githubTag": "v3.6.0",
+          "githubUrl": "git+https://github.com/webpack/css-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "file-loader",
+          "ecosystem": "NPM",
+          "version": "3.0.1",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "file-loader",
+          "githubCommit": "011cc38d4ed470729ff0fbc6c1d7146896603598",
+          "githubTag": "v3.0.1",
+          "githubUrl": "git+https://github.com/webpack-contrib/file-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "font-awesome",
+          "ecosystem": "NPM",
+          "version": "4.7.0",
+          "githubOrg": "FortAwesome",
+          "githubRepo": "Font-Awesome",
+          "githubCommit": "a8386aae19e200ddb0f6845b5feeee5eb7013687",
+          "githubTag": "v4.7.0",
+          "githubUrl": "git+https://github.com/FortAwesome/Font-Awesome.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "imports-loader",
+          "ecosystem": "NPM",
+          "version": "0.8.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "imports-loader",
+          "githubCommit": "a3ac1c556a9d90e59cc30edc99f284d5d9d5e860",
+          "githubTag": "v0.8.0",
+          "githubUrl": "git+https://github.com/webpack-contrib/imports-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "jquery",
+          "ecosystem": "NPM",
+          "version": "3.6.0",
+          "githubOrg": "jquery",
+          "githubRepo": "jquery",
+          "githubCommit": "0cc1ad64ab0f482c13d6edd2a5226f309dd00006",
+          "githubTag": "3.6.0",
+          "githubUrl": "git+https://github.com/jquery/jquery.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lato-font",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "betsol",
+          "githubRepo": "lato-font",
+          "githubCommit": "b25aa8693f5ce250f45f665d0b77116722fceddb",
+          "githubTag": "v3.0.0",
+          "githubUrl": "git+https://github.com/betsol/lato-font.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mini-css-extract-plugin",
+          "ecosystem": "NPM",
+          "version": "0.6.0",
+          "githubOrg": "webpack",
+          "githubRepo": "mini-css-extract-plugin",
+          "githubCommit": "e808b8502e7e5b6ee17ffd3f80086020d52a2832",
+          "githubTag": "v0.6.0",
+          "githubUrl": "git+https://github.com/webpack/mini-css-extract-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "node-sass",
+          "ecosystem": "NPM",
+          "version": "4.14.1",
+          "githubOrg": "sass",
+          "githubRepo": "node-sass",
+          "githubCommit": "0d6c3cc36a5362e83529d901484b0bbf3e96de81",
+          "githubTag": "v4.14.1",
+          "githubUrl": "git+https://github.com/sass/node-sass.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "optimize-css-assets-webpack-plugin",
+          "ecosystem": "NPM",
+          "version": "5.0.4",
+          "githubOrg": "NMFR",
+          "githubRepo": "optimize-css-assets-webpack-plugin",
+          "githubCommit": "e9b84f1eecd17218dc21b2c01360aa6c678d1c05",
+          "githubTag": "v5.0.4",
+          "githubUrl": "git+ssh://git@github.com/NMFR/optimize-css-assets-webpack-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "roboto-fontface",
+          "ecosystem": "NPM",
+          "version": "0.10.0",
+          "githubOrg": "choffmeister",
+          "githubRepo": "roboto-fontface-bower",
+          "githubCommit": "d2e5bf806cc43db44e0bdd1a4261c311c0c7e0f7",
+          "githubTag": "v0.10.0",
+          "githubUrl": "git+https://github.com/choffmeister/roboto-fontface-bower.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sass-loader",
+          "ecosystem": "NPM",
+          "version": "7.3.0",
+          "githubOrg": "webpack",
+          "githubRepo": "sass-loader",
+          "githubCommit": "a3ac649188ef29c359aed7cfefdb48575dcf1474",
+          "githubTag": "v7.3.0",
+          "githubUrl": "git+https://github.com/webpack/sass-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "style-loader",
+          "ecosystem": "NPM",
+          "version": "0.23.1",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "style-loader",
+          "githubCommit": "80039665d612248535557c41de03a5aa377484a8",
+          "githubTag": "v0.23.1",
+          "githubUrl": "git+https://github.com/webpack-contrib/style-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack",
+          "ecosystem": "NPM",
+          "version": "4.46.0",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack",
+          "githubCommit": "444e59f8a427f94f0064cae6765e5a3c4b78596d",
+          "githubTag": "v4.46.0",
+          "githubUrl": "git+https://github.com/webpack/webpack.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-cli",
+          "ecosystem": "NPM",
+          "version": "3.3.12",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack-cli",
+          "githubCommit": "33574ec82e1f6d8b71e872db086bbfaaf77707ba",
+          "githubTag": "v3.3.12",
+          "githubUrl": "git+https://github.com/webpack/webpack-cli.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-dev-server",
+          "ecosystem": "NPM",
+          "version": "3.11.2",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack-dev-server",
+          "githubCommit": "5cb545fdc64c9d4b8e557ca86e597db93b3f93f3",
+          "githubTag": "v3.11.2",
+          "githubUrl": "git+https://github.com/webpack/webpack-dev-server.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-merge",
+          "ecosystem": "NPM",
+          "version": "4.2.1",
+          "githubOrg": "survivejs",
+          "githubRepo": "webpack-merge",
+          "githubCommit": "30a328c36722b844b863f60e0ec755e539822721",
+          "githubTag": "v4.2.1",
+          "githubUrl": "git+https://github.com/survivejs/webpack-merge.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-shell-plugin",
+          "ecosystem": "NPM",
+          "version": "0.5.0",
+          "githubOrg": "1337programming",
+          "githubRepo": "webpack-shell-plugin",
+          "githubUrl": "git+https://github.com/1337programming/webpack-shell-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-watch-files-plugin",
+          "ecosystem": "NPM",
+          "version": "1.1.0",
+          "githubOrg": "Fridus",
+          "githubRepo": "webpack-watch-files-plugin",
+          "githubUrl": "git+https://github.com/Fridus/webpack-watch-files-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "wyrm",
+          "ecosystem": "NPM",
+          "version": "1.0.9",
+          "githubOrg": "snide",
+          "githubRepo": "wyrm",
+          "githubCommit": "fd41b56978f009e8c33cb26f384dd0dfaf430a7d",
+          "githubTag": "1.0.9",
+          "githubUrl": "https://github.com/snide/wyrm",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "82.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "5a13876673a41e3cd21d4d6e587f53d0fb4fd8e5",
+          "githubTag": "v82.0.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
